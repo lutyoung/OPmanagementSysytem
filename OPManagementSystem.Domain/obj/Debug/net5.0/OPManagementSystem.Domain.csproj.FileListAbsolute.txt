@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\OPManagementSystem\OPManagementSystem.Domain\bin\Debug\net5.0\OPManagementSystem.Domain.deps.json
+C:\Users\user\source\repos\OPManagementSystem\OPManagementSystem.Domain\bin\Debug\net5.0\OPManagementSystem.Domain.dll
+C:\Users\user\source\repos\OPManagementSystem\OPManagementSystem.Domain\bin\Debug\net5.0\ref\OPManagementSystem.Domain.dll
+C:\Users\user\source\repos\OPManagementSystem\OPManagementSystem.Domain\bin\Debug\net5.0\OPManagementSystem.Domain.pdb
+C:\Users\user\source\repos\OPManagementSystem\OPManagementSystem.Domain\bin\Debug\net5.0\OPManagementSystem.Core.dll
+C:\Users\user\source\repos\OPManagementSystem\OPManagementSystem.Domain\bin\Debug\net5.0\OPManagementSystem.Data.dll
+C:\Users\user\source\repos\OPManagementSystem\OPManagementSystem.Domain\bin\Debug\net5.0\OPManagementSystem.Data.pdb
+C:\Users\user\source\repos\OPManagementSystem\OPManagementSystem.Domain\bin\Debug\net5.0\OPManagementSystem.Core.pdb
+C:\Users\user\source\repos\OPManagementSystem\OPManagementSystem.Domain\obj\Debug\net5.0\OPManagementSystem.Domain.csprojAssemblyReference.cache
+C:\Users\user\source\repos\OPManagementSystem\OPManagementSystem.Domain\obj\Debug\net5.0\OPManagementSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\OPManagementSystem\OPManagementSystem.Domain\obj\Debug\net5.0\OPManagementSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\OPManagementSystem\OPManagementSystem.Domain\obj\Debug\net5.0\OPManagementSystem.Domain.AssemblyInfo.cs
+C:\Users\user\source\repos\OPManagementSystem\OPManagementSystem.Domain\obj\Debug\net5.0\OPManagementSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\OPManagementSystem\OPManagementSystem.Domain\obj\Debug\net5.0\OPManagementSystem.Domain.csproj.CopyComplete
+C:\Users\user\source\repos\OPManagementSystem\OPManagementSystem.Domain\obj\Debug\net5.0\OPManagementSystem.Domain.dll
+C:\Users\user\source\repos\OPManagementSystem\OPManagementSystem.Domain\obj\Debug\net5.0\ref\OPManagementSystem.Domain.dll
+C:\Users\user\source\repos\OPManagementSystem\OPManagementSystem.Domain\obj\Debug\net5.0\OPManagementSystem.Domain.pdb

@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\OPManagementSystem\OPManagementSystem.Data\bin\Debug\net5.0\OPManagementSystem.Data.deps.json
+C:\Users\user\source\repos\OPManagementSystem\OPManagementSystem.Data\bin\Debug\net5.0\OPManagementSystem.Data.dll
+C:\Users\user\source\repos\OPManagementSystem\OPManagementSystem.Data\bin\Debug\net5.0\ref\OPManagementSystem.Data.dll
+C:\Users\user\source\repos\OPManagementSystem\OPManagementSystem.Data\bin\Debug\net5.0\OPManagementSystem.Data.pdb
+C:\Users\user\source\repos\OPManagementSystem\OPManagementSystem.Data\bin\Debug\net5.0\OPManagementSystem.Core.dll
+C:\Users\user\source\repos\OPManagementSystem\OPManagementSystem.Data\bin\Debug\net5.0\OPManagementSystem.Core.pdb
+C:\Users\user\source\repos\OPManagementSystem\OPManagementSystem.Data\obj\Debug\net5.0\OPManagementSystem.Data.csprojAssemblyReference.cache
+C:\Users\user\source\repos\OPManagementSystem\OPManagementSystem.Data\obj\Debug\net5.0\OPManagementSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\OPManagementSystem\OPManagementSystem.Data\obj\Debug\net5.0\OPManagementSystem.Data.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\OPManagementSystem\OPManagementSystem.Data\obj\Debug\net5.0\OPManagementSystem.Data.AssemblyInfo.cs
+C:\Users\user\source\repos\OPManagementSystem\OPManagementSystem.Data\obj\Debug\net5.0\OPManagementSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\OPManagementSystem\OPManagementSystem.Data\obj\Debug\net5.0\OPManagementSystem.Data.csproj.CopyComplete
+C:\Users\user\source\repos\OPManagementSystem\OPManagementSystem.Data\obj\Debug\net5.0\OPManagementSystem.Data.dll
+C:\Users\user\source\repos\OPManagementSystem\OPManagementSystem.Data\obj\Debug\net5.0\ref\OPManagementSystem.Data.dll
+C:\Users\user\source\repos\OPManagementSystem\OPManagementSystem.Data\obj\Debug\net5.0\OPManagementSystem.Data.pdb
